@@ -1,0 +1,2 @@
+# najma-linux
+A distro
